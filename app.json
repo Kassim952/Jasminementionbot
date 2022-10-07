@@ -1,5 +1,5 @@
 {
-    "name": "TAGALL  Bot",
+    "name": "Jasminementionbot",
     "description": "A simple mention all for telegram.",
     "env": {
         "TOKEN": {
